@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <style>
+        h1
+        {
+            text-align: left;
+            background-color: yellow;
+            color:black;
+            margin-left: 25px;
+            padding: 15px;
+        }
+        p{
+            text-align: justify;
+            text-transform: initial;
+            text-indent: 50px;
+        }
+        h3{
+            text-align: right;
+            color: lightcoral;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>ABOUT US</h1>
+    <ul>
+        <li> It is an online educational Hand Note. This site helps your online community to share knowledge. Student with questions get the answers they need.</li>
+   <li>Our Question and Answer is all fact-checked, edited, and written by professionals who are experts in their field. It comes from our publishing unit or from Academic Publishers, including information which is unavailable online anywhere else.</li>
+    </ul>
+    </body>
+</html>
