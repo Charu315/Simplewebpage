@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    
+    <style>
+        h1{
+            background-color: aqua;
+            color: black;
+            padding: 25px;
+            text-align: left;
+            margin: 30px;
+        }
+        label{
+            text-align: justify;
+            padding: 30px;
+            text-align: justify;
+            color: blue;
+        }
+        textarea
+        {
+            text-align: left;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Book Stores</h1>
+    
+    <form action="">
+    <label for="name">Name:</label>  <input type="text">
+    <br>
+    <label for="email">EmailID:</label>
+    <input type="email" name="" id="">
+    <br>
+    <label for="mob">Mobile no:</label>
+<input type="number" name="" id="">
+    <br>
+   <br>
+    
+    <label for="">Nationality</label>
+    <input type="radio" name="Nationality" id="">Indian
+    <input type="radio" name="Nationality" id="">American
+    <input type="radio" name="Nationality" id="">Italian <br>
+    <br>
+    <br>
+    <label for="book">Book Name</label>
+    <input type="book" name="" id="">
+    <br>
+    <br>
+    <br>
+    <label for="pl" style="text-decoration: underline;color: mediumblue;">Please comment</label>
+    <br>
+    <textarea name="" id="" cols="30" rows="10" ></textarea>
+    <br>
+    <br>
+    <br>
+    <br>
+    <select name="Branches" id="">
+        <option value="">Vellore</option>
+    <option value="">Chennai</option>
+    <option value="">Coimbatore</option>
+    <br>
+    <br>
+    <br>
+
+    </select>
+    <input type="submit" value="Ok">
+    <input type="submit" value="Submit">
+    </form>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    
+</body>
+</html>
